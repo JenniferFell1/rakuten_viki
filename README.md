@@ -13,8 +13,10 @@ A write up of the findings from the analysis can be found here:
 - [Jupyter Notebook](https://jupyter.org/)
 
 ## Dependencies
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
+## Environment
+- [Anaconda](https://www.anaconda.com/)
