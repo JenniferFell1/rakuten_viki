@@ -9,8 +9,8 @@ A write up of the findings from the analysis can be found here:
 
 
 ## Requirements
--Python 3.6
--Jupyter Notebook
+- Python 3.6
+- Jupyter Notebook
 
 ## Dependencies
 
