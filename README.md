@@ -11,7 +11,10 @@ A write up of the findings from the analysis can be found here:
 ## Requirements
 - [Python 3.10](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
-- 
+
 ## Dependencies
 
-
+- pandas
+- numpy
+- matplotlib
+- seaborn
