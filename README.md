@@ -4,7 +4,7 @@ This repository shares my Jupyter Notebook that I used to analyze two **[dataset
 
 [Data Exploration](https://github.com/JenniferFell1/rakuten_viki/blob/1211011ff530287f4a8ae33fe247daa0d2bcefcd/Rakuten.ipynb): Jupyter notebook containing data exploration and analysis of the raw datasets.
 
-[Summary](file:///Users/jennyai/Downloads/SlideMembers_UltimatePitchDeckKeynotemac_KW_4639/index.html): A presentation summarizing the findings from the analysis.
+[Summary]: A presentation summarizing the findings from the analysis.
 
 
 ## Requirements
